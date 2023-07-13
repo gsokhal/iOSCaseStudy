@@ -1,0 +1,22 @@
+/*
+  Localizable.strings
+*/
+
+/* Common string */
+"ok" = "H-Ok";
+"cancel" = "H-Cancel";
+"done" = "H-Done";
+
+/* Signup Screen */
+
+"create-new-account" = "H-Create new account";
+"enter-your-name" = "H-Enter your name";
+"enter-your-email" = "H-Enter your email";
+"enter-your-password" = "H-Enter your password";
+"signup" = "H-Signup";
+
+// Alert messages
+
+"invalid-name" = "H-Name should be of alteast 3 characters.";
+"invalid-email" = "H-Please enter valid email address.";
+"invalid-password" = "H-Password should contain 8 characters with at least one number, one uppercase, and one special character.";
