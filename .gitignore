@@ -36,6 +36,8 @@ IDEWorkspaceChecks.plist
 profile
 *.hmap
 *.ipa
+*.xccheckout
+*.xcuserstate
 
 ####
 # CocoaPods
