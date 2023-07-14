@@ -1,0 +1,1232 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/c3a39f47-5f41-58a4-bd82-e382efbfb3b6",
+      "url": "https://www.nytimes.com/2023/07/12/world/europe/milan-kundera-dead.html",
+      "id": 100000006724285,
+      "asset_id": 100000006724285,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 02:24:34",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Deaths (Obituaries);Books and Literature;Writing and Writers;Kundera, Milan;Communist Party of Czechoslovakia;Czechoslovakia;Czech Republic",
+      "column": null,
+      "byline": "By Daniel Lewis",
+      "type": "Article",
+      "title": "Test Title",
+      "abstract": "The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [
+        "Communist Party of Czechoslovakia"
+      ],
+      "per_facet": [
+        "Kundera, Milan"
+      ],
+      "geo_facet": [
+        "Czechoslovakia",
+        "Czech Republic"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Milan Kundera in 1984, when his novel “The Unbearable Lightness of Being” became an instant success and later the basis of a movie.",
+          "copyright": "Francois Lochon/Gamma-Rapho, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/13d9c428-ddac-59cf-a648-610a0dcf4e04",
+      "url": "https://www.nytimes.com/2023/07/12/climate/white-paint-climate-cooling.html",
+      "id": 100000008983119,
+      "asset_id": 100000008983119,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 09:02:52",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Heat and Heat Waves;Global Warming;Sun;Engineering and Engineers;Paint;Color;Ruan, Xiulin;Purdue University",
+      "column": null,
+      "byline": "By Cara Buckley",
+      "type": "Article",
+      "title": "To Help Cool a Hot Planet, the Whitest of White Coats",
+      "abstract": "Scientists at Purdue have created a white paint that, when applied, can reduce the surface temperature on a roof and cool the building beneath it.",
+      "des_facet": [
+        "Heat and Heat Waves",
+        "Global Warming",
+        "Sun",
+        "Engineering and Engineers",
+        "Paint",
+        "Color"
+      ],
+      "org_facet": [
+        "Purdue University"
+      ],
+      "per_facet": [
+        "Ruan, Xiulin"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xiulin Ruan, a professor of mechanical engineering at Purdue University, has created the whitest paint on record with his students.",
+          "copyright": "John Underwood/Purdue University",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/43b39a69-62f1-5021-ba9d-1ab161f4d2da",
+      "url": "https://www.nytimes.com/2023/07/10/opinion/socialism-workers-participation-labor-market.html",
+      "id": 100000008989030,
+      "asset_id": 100000008989030,
+      "source": "New York Times",
+      "published_date": "2023-07-10",
+      "updated": "2023-07-11 13:39:22",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "United States Economy;Labor and Jobs;Immigration and Emigration;Biden, Joseph R Jr",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "No, ‘Socialism’ Isn’t Making Americans Lazy",
+      "abstract": "All we needed was policy that gave work a chance.",
+      "des_facet": [
+        "United States Economy",
+        "Labor and Jobs",
+        "Immigration and Emigration"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "George Etheredge for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/10krugman1-mzkl/10krugman1-mzkl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/10krugman1-mzkl/10krugman1-mzkl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/10krugman1-mzkl/10krugman1-mzkl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dff9bc5e-9d16-5382-b587-4f0f4a23ab60",
+      "url": "https://www.nytimes.com/2023/07/11/opinion/hochul-supreme-court-domestic-violence.html",
+      "id": 100000008987343,
+      "asset_id": 100000008987343,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 11:02:46",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Gun Control;Domestic Violence;Second Amendment (US Constitution);Decisions and Verdicts;Women's Rights;Supreme Court (US);New York State",
+      "column": null,
+      "byline": "By Kathy Hochul",
+      "type": "Article",
+      "title": "The Supreme Court Case That Has Me Worried, for Survivors and for My State",
+      "abstract": "I carry the name of my grandmother, a survivor of domestic abuse. The effects of domestic violence are not limited to a single generation, nor should our vigilance against it be.",
+      "des_facet": [
+        "Gun Control",
+        "Domestic Violence",
+        "Second Amendment (US Constitution)",
+        "Decisions and Verdicts",
+        "Women's Rights"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York State"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Shoshana Schultz/The New York Times; photographs by Michael Ochs Archives and Adam Gault/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/opinion/11hochul/11hochul-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/opinion/11hochul/11hochul-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/opinion/11hochul/11hochul-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27788e0b-a15d-5792-a959-8f01dcb72fac",
+      "url": "https://www.nytimes.com/2023/07/12/opinion/nato-putin-ukraine-baltics.html",
+      "id": 100000008992163,
+      "asset_id": 100000008992163,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 10:44:57",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;United States International Relations;Defense and Military Forces;Foreign Aid;Arms Trade;Putin, Vladimir V;Kallas, Kaja (1977- );Levits, Egils;Russia;Estonia;Latvia;Lithuania;Ukraine",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "Here’s What the Experts Say About Managing Putin",
+      "abstract": "The Baltic countries got Russia right when much of the West got it wrong.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Foreign Aid",
+        "Arms Trade"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Kallas, Kaja (1977- )",
+        "Levits, Egils"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Estonia",
+        "Latvia",
+        "Lithuania",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A destroyed Russian armored vehicle on the front line.",
+          "copyright": "Tyler Hicks/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bf24f6a5-977b-5de0-89bb-4be179c79a95",
+      "url": "https://www.nytimes.com/2023/07/12/nyregion/nyc-eviction-tina-dupuy-sheila-sullivan.html",
+      "id": 100000008973406,
+      "asset_id": 100000008973406,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 16:56:30",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Actors and Actresses;internal-sub-only;Evictions;Renting and Leasing (Real Estate);Upper West Side (Manhattan, NY)",
+      "column": null,
+      "byline": "By Michael Wilson",
+      "type": "Article",
+      "title": "The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.",
+      "abstract": "The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?",
+      "des_facet": [
+        "Actors and Actresses",
+        "internal-sub-only",
+        "Evictions",
+        "Renting and Leasing (Real Estate)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Upper West Side (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tina Dupuy and Sheila Sullivan in Ms. Sullivan’s Upper West Side apartment.",
+          "copyright": "Brittainy Newman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/462de825-0d65-5557-9d03-b81413625d29",
+      "url": "https://www.nytimes.com/2023/07/11/climate/climate-change-floods-preparedness.html",
+      "id": 100000008989789,
+      "asset_id": 100000008989789,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 10:05:56",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Floods;Rain;Global Warming;Infrastructure (Public Works);Real Estate and Housing (Residential);Federal Emergency Management Agency;Vermont",
+      "column": null,
+      "byline": "By Christopher Flavelle and Rick Rojas",
+      "type": "Article",
+      "title": "Vermont Floods Show Limits of America’s Efforts to Adapt to Climate Change",
+      "abstract": "The lack of a comprehensive national rainfall database and current flood maps hampers the ability to prepare for storms intensified by climate change.",
+      "des_facet": [
+        "Floods",
+        "Rain",
+        "Global Warming",
+        "Infrastructure (Public Works)",
+        "Real Estate and Housing (Residential)"
+      ],
+      "org_facet": [
+        "Federal Emergency Management Agency"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Vermont"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Main Street in Barre, Vt., remained covered with floodwaters and mud on Tuesday.",
+          "copyright": "Hilary Swift for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-notready-01-vfwl/11cli-notready-01-vfwl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-notready-01-vfwl/11cli-notready-01-vfwl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-notready-01-vfwl/11cli-notready-01-vfwl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a2d69bb2-5ee8-5847-b23c-bb2e6144cc2a",
+      "url": "https://www.nytimes.com/2023/07/11/opinion/us-recession-yield-curve.html",
+      "id": 100000008991355,
+      "asset_id": 100000008991355,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 10:33:06",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Economics (Theory and Philosophy);internal-sub-only-nl;Recession and Depression;Interest Rates;Inflation (Economics);United States Economy;Federal Reserve System",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Dude, Where’s My Recession?",
+      "abstract": "A tale of a disaster wrongly foretold.",
+      "des_facet": [
+        "Economics (Theory and Philosophy)",
+        "internal-sub-only-nl",
+        "Recession and Depression",
+        "Interest Rates",
+        "Inflation (Economics)",
+        "United States Economy"
+      ],
+      "org_facet": [
+        "Federal Reserve System"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; images by D-Keine/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/opinion/11krugman-newsletter-image/11krugman-newsletter-image-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/opinion/11krugman-newsletter-image/11krugman-newsletter-image-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/opinion/11krugman-newsletter-image/11krugman-newsletter-image-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9c7ccf02-e885-5655-98a4-ffbe1e28ddb9",
+      "url": "https://www.nytimes.com/2023/07/10/upshot/private-equity-doctors-offices.html",
+      "id": 100000008987288,
+      "asset_id": 100000008987288,
+      "source": "New York Times",
+      "published_date": "2023-07-10",
+      "updated": "2023-07-11 23:12:15",
+      "section": "The Upshot",
+      "subsection": "",
+      "nytdsection": "the upshot",
+      "adx_keywords": "Private Equity;Health Insurance and Managed Care;Mergers, Acquisitions and Divestitures;Doctors",
+      "column": null,
+      "byline": "By Reed Abelson and Margot Sanger-Katz",
+      "type": "Article",
+      "title": "Who Employs Your Doctor? Increasingly, a Private Equity Firm.",
+      "abstract": "A new study finds that private equity firms own more than half of all specialists in certain U.S. markets.",
+      "des_facet": [
+        "Private Equity",
+        "Health Insurance and Managed Care",
+        "Mergers, Acquisitions and Divestitures",
+        "Doctors"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The private equity industry has turned to health care fairly recently, and it has begun purchasing doctors’ practices at a steady clip.",
+          "copyright": "Chase Castor for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11bizsky-up-privateequity-print/10up-private-equity-tgjm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11bizsky-up-privateequity-print/10up-private-equity-tgjm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11bizsky-up-privateequity-print/10up-private-equity-tgjm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3b9e022a-250d-59ac-9619-29b242550a92",
+      "url": "https://www.nytimes.com/2023/07/12/climate/florida-ocean-temperatures-reefs.html",
+      "id": 100000008990777,
+      "asset_id": 100000008990777,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 09:11:21",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Oceans and Seas;Reefs;Coral;Heat and Heat Waves;Global Warming;Fish and Other Marine Life;Wildlife Die-Offs;El Nino Southern Oscillation;Research;National Oceanic and Atmospheric Administration;Florida;Florida Keys;Gulf of Mexico",
+      "column": null,
+      "byline": "By Catrin Einhorn and Elena Shao",
+      "type": "Article",
+      "title": "How Hot Is the Sea Off Florida Right Now? Think 90s Fahrenheit.",
+      "abstract": "Researchers are recording ocean temperatures that pose severe risks to coral reefs and other marine life.",
+      "des_facet": [
+        "Oceans and Seas",
+        "Reefs",
+        "Coral",
+        "Heat and Heat Waves",
+        "Global Warming",
+        "Fish and Other Marine Life",
+        "Wildlife Die-Offs",
+        "El Nino Southern Oscillation",
+        "Research"
+      ],
+      "org_facet": [
+        "National Oceanic and Atmospheric Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Florida Keys",
+        "Gulf of Mexico"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Elena Shao",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/climate/12cli-hotocean-PROMO/12cli-hotocean-PROMO-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/climate/12cli-hotocean-PROMO/12cli-hotocean-PROMO-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/climate/12cli-hotocean-PROMO/12cli-hotocean-PROMO-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/73fd5371-8c1e-5363-ac55-42749d4801f7",
+      "url": "https://www.nytimes.com/2023/07/11/health/coronavirus-deer-zoonotic.html",
+      "id": 100000008991437,
+      "asset_id": 100000008991437,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-13 01:26:52",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "your-feed-health;your-feed-healthcare;Coronavirus (2019-nCoV);Animals;Deer;Viruses;Medicine and Health;your-feed-science;your-feed-animals;Animal and Plant Health Inspection Service",
+      "column": null,
+      "byline": "By Emily Anthes",
+      "type": "Article",
+      "title": "Coronavirus Probably Spread Widely in Deer and Perhaps Back to People, U.S.D.A. Says",
+      "abstract": "From late 2021 to early 2022, humans transmitted the coronavirus to white-tailed deer more than 100 times, research suggests.",
+      "des_facet": [
+        "your-feed-health",
+        "your-feed-healthcare",
+        "Coronavirus (2019-nCoV)",
+        "Animals",
+        "Deer",
+        "Viruses",
+        "Medicine and Health",
+        "your-feed-science",
+        "your-feed-animals"
+      ],
+      "org_facet": [
+        "Animal and Plant Health Inspection Service"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Scientists collected more than 11,000 samples from deer in 26 states and Washington, D.C. They found that one-third had antibodies to the coronavirus and 12 percent were actively infected.",
+          "copyright": "Genna Martin/San Francisco Chronicle, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/science/11VIRUS-DEER/11VIRUS-DEER-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/science/11VIRUS-DEER/11VIRUS-DEER-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/science/11VIRUS-DEER/11VIRUS-DEER-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d5be6fe6-ab39-5fbf-a55d-c9ad676bfa7f",
+      "url": "https://www.nytimes.com/2023/07/12/science/nasa-webb-telescope-one-year-anniversary.html",
+      "id": 100000008993330,
+      "asset_id": 100000008993330,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 23:43:53",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "James Webb Space Telescope;Stars and Galaxies;Space and Astronomy;Research;National Aeronautics and Space Administration",
+      "column": null,
+      "byline": "By Katrina Miller",
+      "type": "Article",
+      "title": "A Year of Cosmic Wonder With the James Webb Space Telescope",
+      "abstract": "With a new image, NASA commemorates the first anniversary of doing science with the most powerful observatory ever sent to space.",
+      "des_facet": [
+        "James Webb Space Telescope",
+        "Stars and Galaxies",
+        "Space and Astronomy",
+        "Research"
+      ],
+      "org_facet": [
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A new image from the James Webb Space Telescope shows the Rho Ophiuchi cloud complex, the closest star-forming region to Earth.",
+          "copyright": "NASA, ESA, CSA, STScI, Klaus Pontoppidan (STScI)",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/science/12sci-WEBB/12sci-WEBB-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/science/12sci-WEBB/12sci-WEBB-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/18/science/12sci-WEBB/12sci-WEBB-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/358f63ad-caed-5afa-a582-428a083de8d9",
+      "url": "https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html",
+      "id": 100000008925643,
+      "asset_id": 100000008925643,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 14:13:35",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Buildings (Structures);Global Warming;Subways;Parking Garages and Lots;Basements and Cellars;Transit Systems;Sensors;Heating;Northwestern University;Chicago (Ill)",
+      "column": null,
+      "byline": "By Raymond Zhong and Jamie Kelter Davis",
+      "type": "Article",
+      "title": "Heat Down Below Is Making the Ground Shift Under Chicago",
+      "abstract": "Basements and train tunnels constantly leak heat, causing the land to sink and straining building foundations. Scientists call it “underground climate change.”",
+      "des_facet": [
+        "Buildings (Structures)",
+        "Global Warming",
+        "Subways",
+        "Parking Garages and Lots",
+        "Basements and Cellars",
+        "Transit Systems",
+        "Sensors",
+        "Heating"
+      ],
+      "org_facet": [
+        "Northwestern University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Chicago (Ill)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alessandro F. Rotta Loria, an assistant professor at Northwestern University, walked through a boiler room of the Union League Club of Chicago to examine a temperature sensor.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3938a2f0-6545-5e7f-93c8-50375bcaf50b",
+      "url": "https://www.nytimes.com/2023/07/12/opinion/republicans-democrats-voters-elections.html",
+      "id": 100000008992122,
+      "asset_id": 100000008992122,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 10:08:28",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Presidential Election of 2020;Black People;Law and Legislation;Voting Rights, Registration and Requirements;Midterm Elections (2022);State Legislatures;United States Politics and Government;Minorities;Brennan Center for Justice;Democratic Party;Republican Party",
+      "column": null,
+      "byline": "By Thomas B. Edsall",
+      "type": "Article",
+      "title": "This Is One Republican Strategy That Isn’t Paying Off",
+      "abstract": "Voter suppression isn’t what it’s cracked up to be.",
+      "des_facet": [
+        "Presidential Election of 2020",
+        "Black People",
+        "Law and Legislation",
+        "Voting Rights, Registration and Requirements",
+        "Midterm Elections (2022)",
+        "State Legislatures",
+        "United States Politics and Government",
+        "Minorities"
+      ],
+      "org_facet": [
+        "Brennan Center for Justice",
+        "Democratic Party",
+        "Republican Party"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Taylor Glascock for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12edsall-hvmt/12edsall-hvmt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12edsall-hvmt/12edsall-hvmt-mediumThreeByTwo210-v5.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12edsall-hvmt/12edsall-hvmt-mediumThreeByTwo440-v5.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b1b3c223-3af3-5e1a-9026-6cbae53794dc",
+      "url": "https://www.nytimes.com/2023/07/12/opinion/floods-vermont-heat-fires.html",
+      "id": 100000008993396,
+      "asset_id": 100000008993396,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 18:45:57",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Global Warming;Heat and Heat Waves;Rain;Floods;Wildfires;Air Pollution;Oceans and Seas;Deaths (Fatalities);internal-sub-only-nl",
+      "column": null,
+      "byline": "By David Wallace-Wells",
+      "type": "Article",
+      "title": "Floods, Heat, Smoke: The Weather Will Never Be Normal Again",
+      "abstract": "Global warming is accelerating, and it’s starting to show.",
+      "des_facet": [
+        "Global Warming",
+        "Heat and Heat Waves",
+        "Rain",
+        "Floods",
+        "Wildfires",
+        "Air Pollution",
+        "Oceans and Seas",
+        "Deaths (Fatalities)",
+        "internal-sub-only-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a6a4033c-c257-5165-a38f-f9bd9e38be20",
+      "url": "https://www.nytimes.com/2023/07/11/world/europe/riikka-purra-sweden-racist-posts.html",
+      "id": 100000008991283,
+      "asset_id": 100000008991283,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 09:30:59",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Politics and Government;Discrimination;Race and Ethnicity;Right-Wing Extremism and Alt-Right;Purra, Riikka;Finns Party (Finland);Finland",
+      "column": null,
+      "byline": "By Johanna Lemola and Aaron Boxerman",
+      "type": "Article",
+      "title": "Finnish Right-Wing Party Leader Apologizes After Racist Posts Surface",
+      "abstract": "Riikka Purra, who leads the nationalist Finns party, was the second member of her faction to come under fire for offensive comments since the government was formed a month ago.",
+      "des_facet": [
+        "Politics and Government",
+        "Discrimination",
+        "Race and Ethnicity",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        "Finns Party (Finland)"
+      ],
+      "per_facet": [
+        "Purra, Riikka"
+      ],
+      "geo_facet": [
+        "Finland"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Finns Party chair Riikka Purra after parliamentary elections in Helsinki, in April.",
+          "copyright": "Jonathan Nackstrand/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11finland-1-pgwf/11finland-1-pgwf-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11finland-1-pgwf/11finland-1-pgwf-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11finland-1-pgwf/11finland-1-pgwf-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/99cb3fc5-788d-5dc3-baff-143d8cd0e510",
+      "url": "https://www.nytimes.com/2023/07/12/books/review/milan-kundera-books.html",
+      "id": 100000008992596,
+      "asset_id": 100000008992596,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 23:34:29",
+      "section": "Books",
+      "subsection": "Book Review",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Writing and Writers;Content Type: Personal Profile;Kundera, Milan;Czechoslovakia;Czech Republic",
+      "column": null,
+      "byline": "By Dwight Garner",
+      "type": "Article",
+      "title": "In Milan Kundera’s Work, the Erotic Meets the Subversive",
+      "abstract": "His best novels, charged with a distrust of authority, retain their sweep and power.",
+      "des_facet": [
+        "Books and Literature",
+        "Writing and Writers",
+        "Content Type: Personal Profile"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Kundera, Milan"
+      ],
+      "geo_facet": [
+        "Czechoslovakia",
+        "Czech Republic"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Milan Kundera in Prague on Oct. 14, 1973.",
+          "copyright": "Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12Kunera-Appraisal-hzmj/12Kunera-Appraisal-hzmj-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12Kunera-Appraisal-hzmj/12Kunera-Appraisal-hzmj-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12Kunera-Appraisal-hzmj/12Kunera-Appraisal-hzmj-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eedc4be9-8df1-5663-becb-3c2dac4062e3",
+      "url": "https://www.nytimes.com/2023/07/11/us/politics/defense-bill-republicans.html",
+      "id": 100000008990874,
+      "asset_id": 100000008990874,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 05:46:13",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Law and Legislation;United States Defense and Military Forces;McCarthy, Kevin (1965- );Defense Department;House of Representatives",
+      "column": null,
+      "byline": "By Karoun Demirjian",
+      "type": "Article",
+      "title": "Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage",
+      "abstract": "Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "United States Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Defense Department",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "McCarthy, Kevin (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The internal Republican division on the annual defense bill will be a test for Speaker Kevin McCarthy.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ba16dce4-37e2-5a23-92e8-35fede3c0d7d",
+      "url": "https://www.nytimes.com/2023/07/12/world/europe/sergei-surovikin-russian-general-missing.html",
+      "id": 100000008992731,
+      "asset_id": 100000008992731,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 10:33:38",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Putin, Vladimir V;Surovikin, Sergei;Prigozhin, Yevgeny V;Wagner Group;Russia;Ukraine",
+      "column": null,
+      "byline": "By Paul Sonne",
+      "type": "Article",
+      "title": "Russian Military Hit by Uncertainty as One General Is Killed and Another Remains Absent",
+      "abstract": "A Russian lawmaker says that Gen. Sergei Surovikin, who has not been seen in public since a short-lived mutiny, has been “taking a rest.”",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [
+        "Wagner Group"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Surovikin, Sergei",
+        "Prigozhin, Yevgeny V"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia and Gen. Sergei Surovikin in 2017, in a photo from Russian state media.",
+          "copyright": "Sputnik, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/12ukraine-blog-russia-generals22-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/28dc-russia-military-khjb-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/28dc-russia-military-khjb-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/0dcce9b5-c676-5988-b5fa-0c9a85b6474b",
+      "url": "https://www.nytimes.com/2023/07/11/arts/design/climate-protests-museums-sentences-art.html",
+      "id": 100000008982199,
+      "asset_id": 100000008982199,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-11 23:24:04",
+      "section": "Arts",
+      "subsection": "Art & Design",
+      "nytdsection": "arts",
+      "adx_keywords": "Art;Museums;Demonstrations, Protests and Riots;Vandalism;Global Warming;Degas, Edgar;Feldman, Kaywin;Leopold Museum;Metropolitan Museum of Art;National Gallery of Art;Sweden;United States",
+      "column": null,
+      "byline": "By Zachary Small",
+      "type": "Article",
+      "title": "After a Year of Climate Protests, the Toll Rises for Museums and Activists",
+      "abstract": "Museums must pay for added security and the conservation of precious paintings. Now they are suing eco-activists for damages, and authorities are bringing serious charges.",
+      "des_facet": [
+        "Art",
+        "Museums",
+        "Demonstrations, Protests and Riots",
+        "Vandalism",
+        "Global Warming"
+      ],
+      "org_facet": [
+        "Leopold Museum",
+        "Metropolitan Museum of Art",
+        "National Gallery of Art"
+      ],
+      "per_facet": [
+        "Degas, Edgar",
+        "Feldman, Kaywin"
+      ],
+      "geo_facet": [
+        "Sweden",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Prosecutors have charged two protesters who smeared paint on the case and base of an Edgar Degas sculpture in the National Gallery of Art in Washington with conspiracy and damaging the exhibit. Each charge carries a maximum sentence of five years in prison and fines up to $250,000.",
+          "copyright": "Agence France-Presse &mdash; Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11climate-activists-museums4-vzqb/11climate-activists-museums4-vzqb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11climate-activists-museums4-vzqb/11climate-activists-museums4-vzqb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/11climate-activists-museums4-vzqb/11climate-activists-museums4-vzqb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

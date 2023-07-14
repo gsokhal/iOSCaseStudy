@@ -13,10 +13,10 @@ profile
 *.ipa
 
 ####
-# Xcode build files
+# fastlane/swiftlint files
 DerivedData/
-build/
-Builds/
+TestReports/
+swiftlint.html
 
 #####
 # Xcode private settings (window sizes, bookmarks, breakpoints, custom executables, smart groups)

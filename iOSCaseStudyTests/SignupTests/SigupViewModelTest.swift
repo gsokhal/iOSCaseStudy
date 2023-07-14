@@ -9,8 +9,8 @@ import XCTest
 @testable import iOSCaseStudy
 
 final class SigupViewModelTest: XCTestCase {
-    let mockViewModel = SignupViewModel()
-    
+    let viewModel = SignupViewModel()
+
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
     }
@@ -20,49 +20,45 @@ final class SigupViewModelTest: XCTestCase {
     }
 
     func testIsValidName() {
-        // empty name
-        XCTAssertFalse(mockViewModel.isValidName(name: ""))
-        // name with spaces
-        XCTAssertFalse(mockViewModel.isValidName(name: "   "))
-        // name with leading spaces
-        XCTAssertFalse(mockViewModel.isValidName(name: "  A"))
-        // name with trailling spaces
-        XCTAssertFalse(mockViewModel.isValidName(name: "A  "))
-        // name with leading and trailling spaces
-        XCTAssertFalse(mockViewModel.isValidName(name: " A "))
-        
-        // valid name
-        XCTAssertTrue(mockViewModel.isValidName(name: "ABC"))
-        XCTAssertTrue(mockViewModel.isValidName(name: "A A"))
-        XCTAssertTrue(mockViewModel.isValidName(name: "ABC XYZ"))
-        XCTAssertTrue(mockViewModel.isValidName(name: "qwerty 123"))
+        XCTAssertTrue(viewModel.isValidName(name: "ABC"))
+        XCTAssertTrue(viewModel.isValidName(name: "A A"))
+        XCTAssertTrue(viewModel.isValidName(name: "ABC XYZ"))
+        XCTAssertTrue(viewModel.isValidName(name: "qwerty 123"))
     }
-    
+
+    func testIsInvalidName() {
+        XCTAssertFalse(viewModel.isValidName(name: ""))
+        XCTAssertFalse(viewModel.isValidName(name: "   "))
+        XCTAssertFalse(viewModel.isValidName(name: "  A"))
+        XCTAssertFalse(viewModel.isValidName(name: "A  "))
+        XCTAssertFalse(viewModel.isValidName(name: " A "))
+    }
+
     func testIsValidEmail() {
-        // invalid cases
-        XCTAssertFalse(mockViewModel.isValidEmail(email: ""))
-        XCTAssertFalse(mockViewModel.isValidEmail(email: "   "))
-        XCTAssertFalse(mockViewModel.isValidEmail(email: "a.com"))
-        XCTAssertFalse(mockViewModel.isValidEmail(email: "a@aaaa"))
-        XCTAssertFalse(mockViewModel.isValidEmail(email: "a.a@"))
-        
-        // valid cases
-        XCTAssertTrue(mockViewModel.isValidEmail(email: "a@a.com"))
-        XCTAssertTrue(mockViewModel.isValidEmail(email: "a@xyz.co"))
-        XCTAssertTrue(mockViewModel.isValidEmail(email: "xyz@g.co.in"))
+        XCTAssertTrue(viewModel.isValidEmail(email: "a@a.com"))
+        XCTAssertTrue(viewModel.isValidEmail(email: "a@xyz.co"))
+        XCTAssertTrue(viewModel.isValidEmail(email: "xyz@g.co.in"))
     }
-    
+
+    func testIsInvalidEmail() {
+        XCTAssertFalse(viewModel.isValidEmail(email: ""))
+        XCTAssertFalse(viewModel.isValidEmail(email: "   "))
+        XCTAssertFalse(viewModel.isValidEmail(email: "a.com"))
+        XCTAssertFalse(viewModel.isValidEmail(email: "a@aaaa"))
+        XCTAssertFalse(viewModel.isValidEmail(email: "a.a@"))
+    }
+
     func testIsValidPassword() {
-        // invalid cases
-        XCTAssertFalse(mockViewModel.isValidPassword(password: ""))
-        XCTAssertFalse(mockViewModel.isValidPassword(password: "        "))
-        XCTAssertFalse(mockViewModel.isValidPassword(password: "12345678"))
-        XCTAssertFalse(mockViewModel.isValidPassword(password: "1234567A"))
-        XCTAssertFalse(mockViewModel.isValidPassword(password: "12345678$$@"))
-        
-        // valid cases
-        XCTAssertTrue(mockViewModel.isValidPassword(password: "12345678A$"))
-        XCTAssertTrue(mockViewModel.isValidPassword(password: "$$$$$$$$A1"))
-        XCTAssertTrue(mockViewModel.isValidPassword(password: "Aaaaare1%"))
+        XCTAssertTrue(viewModel.isValidPassword(password: "12345678A$"))
+        XCTAssertTrue(viewModel.isValidPassword(password: "$$$$$$$$A1"))
+        XCTAssertTrue(viewModel.isValidPassword(password: "Aaaaare1%"))
+    }
+
+    func testIsInvalidPassword() {
+        XCTAssertFalse(viewModel.isValidPassword(password: ""))
+        XCTAssertFalse(viewModel.isValidPassword(password: "        "))
+        XCTAssertFalse(viewModel.isValidPassword(password: "12345678"))
+        XCTAssertFalse(viewModel.isValidPassword(password: "1234567A"))
+        XCTAssertFalse(viewModel.isValidPassword(password: "12345678$$@"))
     }
 }
