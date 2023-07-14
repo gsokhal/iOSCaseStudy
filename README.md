@@ -43,7 +43,8 @@ pod install
 
 In Xcode, select the desired simulator and click the play button(on top left) or press ⌘+R to run the app. To test, click and hold on the play button to select the Test option or press ⌘+U.
 
-To run tests from terminal, run `bundle exec fastlane tests`. Go through Fastlane documentation section if you face any issues.
+To run tests from terminal, run `bundle exec fastlane tests`. It will build and run the tests, also it will create report in html file and open it in browser automatically. 
+Go through Fastlane documentation section if you face any issues.
 
 
 # Fastlane documentation

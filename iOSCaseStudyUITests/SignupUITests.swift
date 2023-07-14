@@ -18,11 +18,11 @@ final class SignupUITests: XCTestCase {
     func testViewsOnScreen() throws {
         XCTAssertNotNil(app.staticTexts["signup title"])
 
-        let nameTextfield = app.textFields["name textfield"]
-        XCTAssertNotNil(nameTextfield)
-
         let emailTextfield = app.textFields["email textfield"]
         XCTAssertNotNil(emailTextfield)
+        
+        let nameTextfield = app.textFields["name textfield"]
+        XCTAssertNotNil(nameTextfield)
 
         let passwordTextfield = app.textFields["password textfield"]
         XCTAssertNotNil(passwordTextfield)
@@ -42,28 +42,26 @@ final class SignupUITests: XCTestCase {
     }
 
     func testEditingFields() {
-        let nameTextfield = app.textFields["name textfield"]
-        XCTAssertNotNil(nameTextfield)
-
         let emailTextfield = app.textFields["email textfield"]
         XCTAssertNotNil(emailTextfield)
 
+        let nameTextfield = app.textFields["name textfield"]
+        XCTAssertNotNil(nameTextfield)
+        
         let signupButton = app.buttons["signup button"]
         XCTAssertNotNil(signupButton)
 
-        // navigating after filling half detaitls, it will not navigate
-        nameTextfield.tap()
-        nameTextfield.typeText("Abc")
+        emailTextfield.tap()
+        emailTextfield.typeText("a@a.com")
         signupButton.tap()
-
+        
         // Alert is shown
         let okButtonAlert = app.buttons["Ok"]
         XCTAssertNotNil(okButtonAlert)
         okButtonAlert.tap()
-
-        // Navigating after filling all details
-        emailTextfield.tap()
-        emailTextfield.typeText("a@a.com")
+        
+        nameTextfield.tap()
+        nameTextfield.typeText("Abc")
         signupButton.tap()
 
         // Alert ok pressed

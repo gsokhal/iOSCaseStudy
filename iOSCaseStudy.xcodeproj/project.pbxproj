@@ -136,6 +136,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6F1D87EF2A6159C100E56CE2 /* TabelViewCell */ = {
+			isa = PBXGroup;
+			children = (
+				6F5AC7DC2A5FF8C3007FB90E /* FeedTableViewCell.swift */,
+			);
+			path = TabelViewCell;
+			sourceTree = "<group>";
+		};
+		6F1D87F02A6159E800E56CE2 /* SceneDelegate */ = {
+			isa = PBXGroup;
+			children = (
+				6F521CD62A5FA19A0001BA90 /* SceneDelegate.swift */,
+			);
+			path = SceneDelegate;
+			sourceTree = "<group>";
+		};
 		6F4FDE1A2A5FBA5B002DC887 /* Helper */ = {
 			isa = PBXGroup;
 			children = (
@@ -173,7 +189,7 @@
 			isa = PBXGroup;
 			children = (
 				6F521D042A5FA8E80001BA90 /* AppDelegate */,
-				6F521CD62A5FA19A0001BA90 /* SceneDelegate.swift */,
+				6F1D87F02A6159E800E56CE2 /* SceneDelegate */,
 				6F521D072A5FAB980001BA90 /* SignUp */,
 				6F5AC7C02A5FE64B007FB90E /* Feed */,
 				6F5AC7CC2A5FE9E9007FB90E /* Network */,
@@ -251,8 +267,8 @@
 		6F5AC7C32A5FE66F007FB90E /* View */ = {
 			isa = PBXGroup;
 			children = (
+				6F1D87EF2A6159C100E56CE2 /* TabelViewCell */,
 				6F5AC7C42A5FE6BD007FB90E /* FeedViewController.swift */,
-				6F5AC7DC2A5FF8C3007FB90E /* FeedTableViewCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
