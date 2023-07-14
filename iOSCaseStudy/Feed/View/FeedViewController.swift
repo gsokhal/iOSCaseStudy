@@ -64,6 +64,7 @@ extension FeedViewController: ShowAlertProtocol {
     // This function show/hide the indicator
     private func showHideLoader(show: Bool) {
         activityIndicator.isHidden = !show
+        show ? activityIndicator.startAnimating() : activityIndicator.stopAnimating()
     }
 
     // This function adds refresh control to table view
@@ -89,9 +90,13 @@ extension FeedViewController: ShowAlertProtocol {
             topFeeds = await viewModel.getFeedData()
 
             DispatchQueue.main.async { [weak self] in
-                self?.showHideLoader(show: false)
-                self?.refreshControl.endRefreshing()
-                self?.feedsTableView.reloadData()
+                guard let self = self else {
+                    return
+                }
+                showHideLoader(show: false)
+                noFeedsLabel.isHidden = !topFeeds.isEmpty
+                refreshControl.endRefreshing()
+                feedsTableView.reloadData()
             }
         }
     }

@@ -95,21 +95,21 @@ extension SignupViewController: ShowAlertProtocol, ValidationProtocol {
 
         // Validating the inputs
 
-        if let name = nameTextfield.text,
-           !viewModel.isValidName(name: name) {
-
-            showAlert(
-                title: Constants.alertTitleInvalid.localize(),
-                message: Constants.invalidName.localize(),
-                view: self
-            )
-            return
-        } else if let email = emailTextfield.text,
+        if let email = emailTextfield.text,
                 !viewModel.isValidEmail(email: email) {
 
             showAlert(
                 title: Constants.alertTitleInvalid.localize(),
                 message: Constants.invalidEmail.localize(),
+                view: self
+            )
+            return
+        } else if let name = nameTextfield.text,
+           !viewModel.isValidName(name: name) {
+
+            showAlert(
+                title: Constants.alertTitleInvalid.localize(),
+                message: Constants.invalidName.localize(),
                 view: self
             )
             return
