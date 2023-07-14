@@ -1,0 +1,37 @@
+{
+  "configurations" : [
+    {
+      "id" : "68A5940D-D1F4-4354-AD4D-4D9BBD1DD782",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:iOSCaseStudy.xcodeproj",
+      "identifier" : "6F521CD02A5FA19A0001BA90",
+      "name" : "iOSCaseStudy"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:iOSCaseStudy.xcodeproj",
+        "identifier" : "6F859BF12A612010001B973B",
+        "name" : "iOSCaseStudyTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:iOSCaseStudy.xcodeproj",
+        "identifier" : "6F859BFE2A612018001B973B",
+        "name" : "iOSCaseStudyUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

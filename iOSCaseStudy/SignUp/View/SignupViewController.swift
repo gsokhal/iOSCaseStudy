@@ -8,7 +8,7 @@
 import UIKit
 
 class SignupViewController: UIViewController {
-    
+
     // IBOutlets
     @IBOutlet private weak var mainScrollView: UIScrollView!
     @IBOutlet private weak var titleLabel: UILabel!
@@ -16,21 +16,20 @@ class SignupViewController: UIViewController {
     @IBOutlet private weak var emailTextfield: UITextField!
     @IBOutlet private weak var passwordTextfield: UITextField!
     @IBOutlet private weak var signupButton: UIButton!
-    
-    
-    //MARK: - View Lifecycle
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        
-        doInitialSetup()
-    }
-    
+
     // Variable
     private let viewModel: SignupViewModelProtocol = SignupViewModel()
-    
+
+    // MARK: - View Lifecycle
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        doInitialSetup()
+    }
+
 }
 
-//MARK: - Helper Methods
+// MARK: - Helper Methods
 extension SignupViewController {
     // This function performs all initial setup
     private func doInitialSetup() {
@@ -38,7 +37,7 @@ extension SignupViewController {
         updateStringsOnScreen()
         addDoneButtonOnKeyboard()
     }
-    
+
     // This function adds keyboard sho/hide notifications
     private func addNotificationObserverForKeyboard() {
         NotificationCenter.default.addObserver(
@@ -54,7 +53,7 @@ extension SignupViewController {
             object: nil
         )
     }
-    
+
     // This function add localised text on screen
     private func updateStringsOnScreen() {
         titleLabel.text = Constants.createNewAccount.localize()
@@ -63,7 +62,7 @@ extension SignupViewController {
         passwordTextfield.placeholder = Constants.enterYourPassword.localize()
         signupButton.setTitle(Constants.signup.localize(), for: .normal)
     }
-    
+
     private func addDoneButtonOnKeyboard() {
         let toolbar = UIToolbar()
         toolbar.sizeToFit()
@@ -73,67 +72,86 @@ extension SignupViewController {
             target: self,
             action: #selector(doneButtonAction)
         )
+        donebutton.accessibilityIdentifier = Constants.done
         toolbar.setItems([donebutton], animated: false)
-        
+
         nameTextfield.inputAccessoryView = toolbar
         emailTextfield.inputAccessoryView = toolbar
         passwordTextfield.inputAccessoryView = toolbar
     }
-    
-    // This function shows alert with given message
-    private func showAlert(title: String = Constants.alertTitleInvalid, message: String) {
-        let alertAction = UIAlertAction(title: Constants.alertOk, style: .default)
-        let alert = UIAlertController(title: title, message: message, preferredStyle: .alert)
-        alert.addAction(alertAction)
-        
-        present(alert, animated: true)
-    }
 }
 
-//MARK: - Button Actions
-extension SignupViewController {
-    
+// MARK: - Button Actions
+extension SignupViewController: ShowAlertProtocol, ValidationProtocol {
+
     @objc private func doneButtonAction() {
         // dismissing the keyboard
         view.endEditing(true)
     }
-    
+
     @IBAction private func signupButtonAction(_ sender: Any) {
         // hidding the keyboard
         doneButtonAction()
-        
+
         // Validating the inputs
-        
+
         if let name = nameTextfield.text,
            !viewModel.isValidName(name: name) {
-            
-            showAlert(message: Constants.invalidName.localize())
+
+            showAlert(
+                title: Constants.alertTitleInvalid.localize(),
+                message: Constants.invalidName.localize(),
+                view: self
+            )
             return
-        }
-        else if let email = emailTextfield.text,
+        } else if let email = emailTextfield.text,
                 !viewModel.isValidEmail(email: email) {
-            
-            showAlert(message: Constants.invalidEmail.localize())
+
+            showAlert(
+                title: Constants.alertTitleInvalid.localize(),
+                message: Constants.invalidEmail.localize(),
+                view: self
+            )
             return
-        }
-        else if let password = passwordTextfield.text,
+        } else if let password = passwordTextfield.text,
                 !viewModel.isValidPassword(password: password) {
-            
-            showAlert(message: Constants.invalidPassword.localize())
+
+            showAlert(
+                title: Constants.alertTitleInvalid.localize(),
+                message: Constants.invalidPassword.localize(),
+                view: self
+            )
             return
         }
-        
-        //TODO: - Navigate to feeds screen
+
+        // Navigate to feeds screen
+        navigateToFeedViewController()
     }
-    
+
 }
 
-//MARK: - Keyboard notification observer methods
+// MARK: - Navigation
 extension SignupViewController {
     
+    private func navigateToFeedViewController() {
+        present(
+            (storyboard?.instantiateViewController(
+                withIdentifier: "\(FeedViewController.self)"
+            )) as? FeedViewController ?? UIViewController(),
+            animated: true,
+            completion: nil
+        )
+    }
+}
+
+// MARK: - Keyboard notification observer methods
+extension SignupViewController {
+
     @objc private func keyboardWillShow(notification: Notification) {
-        if let keyboardSize = (notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue)?.cgRectValue, mainScrollView.contentInset.bottom != keyboardSize.height {
-            
+        if let keyboardSize = (
+            notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue)?.cgRectValue,
+           mainScrollView.contentInset.bottom != keyboardSize.height {
+
             mainScrollView.contentInset = UIEdgeInsets(
                 top: 0,
                 left: 0,
@@ -142,9 +160,11 @@ extension SignupViewController {
             )
         }
     }
-    
+
     @objc private func keyboardWillHide(notification: Notification) {
-        if let keyboardSize = (notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue)?.cgRectValue, mainScrollView.contentInset.bottom != -keyboardSize.height {
+        if let keyboardSize = (
+            notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? NSValue)?.cgRectValue,
+           mainScrollView.contentInset.bottom != -keyboardSize.height {
             
             mainScrollView.contentInset = UIEdgeInsets(
                 top: 0,

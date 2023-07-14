@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
    LastUpgradeVersion = "1430"
-   version = "2.2">
+   version = "2.1">
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
@@ -26,8 +26,23 @@
             buildForProfiling = "NO"
             buildForArchiving = "NO"
             buildForAnalyzing = "NO">
-            <AutocreatedTestPlanReference>
-            </AutocreatedTestPlanReference>
+            <TestPlanReference
+               reference = "container:../iOSCaseStudy.xctestplan">
+            </TestPlanReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6F859BFE2A612018001B973B"
+               BuildableName = "iOSCaseStudyUITests.xctest"
+               BlueprintName = "iOSCaseStudyUITests"
+               ReferencedContainer = "container:iOSCaseStudy.xcodeproj">
+            </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
@@ -35,15 +50,20 @@
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
-      shouldUseLaunchSchemeArgsEnv = "YES"
-      shouldAutocreateTestPlan = "YES">
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <TestPlans>
+         <TestPlanReference
+            reference = "container:iOSCaseStudy.xctestplan"
+            default = "YES">
+         </TestPlanReference>
+      </TestPlans>
       <Testables>
          <TestableReference
             skipped = "NO"
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6F521CE62A5FA19C0001BA90"
+               BlueprintIdentifier = "6F859BF12A612010001B973B"
                BuildableName = "iOSCaseStudyTests.xctest"
                BlueprintName = "iOSCaseStudyTests"
                ReferencedContainer = "container:iOSCaseStudy.xcodeproj">
@@ -54,7 +74,7 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6F521CF02A5FA19C0001BA90"
+               BlueprintIdentifier = "6F859BFE2A612018001B973B"
                BuildableName = "iOSCaseStudyUITests.xctest"
                BlueprintName = "iOSCaseStudyUITests"
                ReferencedContainer = "container:iOSCaseStudy.xcodeproj">

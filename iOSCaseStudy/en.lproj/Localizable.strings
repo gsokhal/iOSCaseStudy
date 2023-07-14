@@ -11,6 +11,8 @@
 "ok" = "Ok";
 "cancel" = "Cancel";
 "done" = "Done";
+"invalid" = "Invalid";
+"error" = "Error";
 
 /* Signup Screen */
 
@@ -25,3 +27,13 @@
 "invalid-name" = "Name should be of alteast 3 characters.";
 "invalid-email" = "Please enter valid email address.";
 "invalid-password" = "Password should contain 8 characters with at least one number, one uppercase, and one special character.";
+
+/* Feed Screen */
+"feeds" = "Feeds";
+"no-feeds" = "No Feeds";
+"error-fetching-emailed" = "Unable to fetch most emailed feeds";
+"error-fetching-shared" = "Unable to fetch most shared feeds";
+"error-fetching-viewed" = "Unable to fetch most viewed feeds";
+"section-emailed" = "Most Emailed";
+"section-shared" = "Most Shared";
+"section-viewed" = "Most Viewed";

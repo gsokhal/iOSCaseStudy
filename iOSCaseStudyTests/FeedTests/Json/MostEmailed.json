@@ -1,0 +1,1186 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/7a6e1ace-ddc2-5baf-8d27-3b13948ca234",
+      "url": "https://www.nytimes.com/2023/07/06/opinion/artificial-intelligence-medicine-healthcare.html",
+      "id": 100000008977419,
+      "asset_id": 100000008977419,
+      "source": "New York Times",
+      "published_date": "2023-07-06",
+      "updated": "2023-07-06 09:11:05",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Artificial Intelligence;Doctors;Medicine and Health",
+      "column": null,
+      "byline": "By Daniela J. Lamas",
+      "type": "Article",
+      "title": "Test Title",
+      "abstract": "How will A.I. change how we practice medicine?",
+      "des_facet": [
+        "Artificial Intelligence",
+        "Doctors",
+        "Medicine and Health"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/674318be-5c86-5a71-832c-70def2c55d46",
+      "url": "https://www.nytimes.com/2023/07/10/sports/marlin-fishing-disqualified.html",
+      "id": 100000008971690,
+      "asset_id": 100000008971690,
+      "source": "New York Times",
+      "published_date": "2023-07-10",
+      "updated": "2023-07-11 06:41:29",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "internal-sub-only;Fishing, Sport;Boats and Boating;internal-open-access-from-nl;North Carolina",
+      "column": null,
+      "byline": "By Brandon Sneed",
+      "type": "Article",
+      "title": "They Caught the Fish, but the $3.5 Million Prize Got Away",
+      "abstract": "The guys aboard Sensation celebrated like lottery winners when they boated a monster marlin in the last hours of the fishing tournament. The party ended when they got back to shore.",
+      "des_facet": [
+        "internal-sub-only",
+        "Fishing, Sport",
+        "Boats and Boating",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "North Carolina"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ashley Bleau, left, owner of the Sensation, and its captain, Greg McCoy, in Morehead City, N.C.",
+          "copyright": "Madeline Gray for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/04/multimedia/04marlin-01-bmwg/04marlin-01-bmwg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/04/multimedia/04marlin-01-bmwg/04marlin-01-bmwg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/04/multimedia/04marlin-01-bmwg/04marlin-01-bmwg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c3e60e02-aea7-56f6-8340-a62280c42444",
+      "url": "https://www.nytimes.com/2023/07/06/travel/paris-bistros-best.html",
+      "id": 100000008931053,
+      "asset_id": 100000008931053,
+      "source": "New York Times",
+      "published_date": "2023-07-06",
+      "updated": "2023-07-07 09:55:10",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Restaurants;French Food (Cuisine);Wines;Chefs;Travel and Vacations;Paris (France)",
+      "column": null,
+      "byline": "By Alexander Lobrano",
+      "type": "Article",
+      "title": "6 Paris Bistros to Try Now",
+      "abstract": "The city’s restaurant scene is back in full force, and a half-dozen bistro-style eateries showcase the best of what’s new, including a refreshingly simple style of cooking.",
+      "des_facet": [
+        "Restaurants",
+        "French Food (Cuisine)",
+        "Wines",
+        "Chefs",
+        "Travel and Vacations"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Paris (France)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Parcelles is a popular bistrot à vins, or wine-oriented bistro, near the Pompidou Center in the Upper Marais. ",
+          "copyright": "Joann Pai for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/multimedia/06-travel-best-bistros-tzjw/06-travel-best-bistros-tzjw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/multimedia/06-travel-best-bistros-tzjw/06-travel-best-bistros-tzjw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/multimedia/06-travel-best-bistros-tzjw/06-travel-best-bistros-tzjw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/180c1e67-3a90-5ba3-866e-22c50c9dc08d",
+      "url": "https://www.nytimes.com/2023/07/12/science/sea-otter-surfboard.html",
+      "id": 100000008991755,
+      "asset_id": 100000008991755,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 06:57:45",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Sea Otters;Surfing;Maritime Crime;Animal Behavior;your-feed-science;your-feed-animals;internal-open-access-search;internal-open-access-from-nl;Monterey Bay Aquarium;Santa Cruz (Calif)",
+      "column": null,
+      "byline": "By Annie Roth",
+      "type": "Article",
+      "title": "She Steals Surfboards by the Seashore. She’s a Sea Otter.",
+      "abstract": "California wildlife officials are hoping to apprehend a 5-year-old sea otter, who has a knack for riding the waves after committing longboard larceny.",
+      "des_facet": [
+        "Sea Otters",
+        "Surfing",
+        "Maritime Crime",
+        "Animal Behavior",
+        "your-feed-science",
+        "your-feed-animals",
+        "internal-open-access-search",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [
+        "Monterey Bay Aquarium"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Santa Cruz (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After being weaned, the sea otter named 841 was raised at the Monterey Bay Aquarium in California not to form positive associations with humans upon rerelease. But she soon shed her fear of humans.",
+          "copyright": "Mark Woodward/Native Santa Cruz",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12sci-surfing-sea-otter-01-tvgh/12sci-surfing-sea-otter-01-tvgh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12sci-surfing-sea-otter-01-tvgh/12sci-surfing-sea-otter-01-tvgh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12sci-surfing-sea-otter-01-tvgh/12sci-surfing-sea-otter-01-tvgh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/56e1b35b-2608-5dbe-8816-459b42cf9e7d",
+      "url": "https://www.nytimes.com/2023/07/07/travel/national-parks-attractions.html",
+      "id": 100000008976102,
+      "asset_id": 100000008976102,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-09 13:48:14",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "internal-open-access-from-nl;Travel and Vacations;National Parks, Monuments and Seashores;Hikes and Hiking;Camps and Camping;Pictured Rocks National Lakeshore (Mich);Cumberland Gap National Historical Park;Dinosaur National Monument (Utah);Chiricahua National Monument (AZ);Point Reyes National Seashore (Calif)",
+      "column": null,
+      "byline": "By Lauren Sloss",
+      "type": "Article",
+      "title": "5 National Park Destinations That Aren’t Parks",
+      "abstract": "The National Park Service isn’t just the 63 big-name parks. Here are national monuments, a lakeshore and two other less crowded alternatives to explore the country’s natural beauty and attractions.",
+      "des_facet": [
+        "internal-open-access-from-nl",
+        "Travel and Vacations",
+        "National Parks, Monuments and Seashores",
+        "Hikes and Hiking",
+        "Camps and Camping"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Pictured Rocks National Lakeshore (Mich)",
+        "Cumberland Gap National Historical Park",
+        "Dinosaur National Monument (Utah)",
+        "Chiricahua National Monument (AZ)",
+        "Point Reyes National Seashore (Calif)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Stephen Hiltner/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/travel/travel-nps-alts-promo/travel-nps-alts-promo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/travel/travel-nps-alts-promo/travel-nps-alts-still-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/travel/travel-nps-alts-promo/travel-nps-alts-still-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/239eb87a-ef98-5e97-9f77-9db577ada2cd",
+      "url": "https://www.nytimes.com/2023/07/06/science/birding-illustration-sibley.html",
+      "id": 100000008983250,
+      "asset_id": 100000008983250,
+      "source": "New York Times",
+      "published_date": "2023-07-06",
+      "updated": "2023-07-11 07:20:42",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Birds;Birdwatching;your-feed-science;your-feed-animals;internal-paywall-exempt",
+      "column": null,
+      "byline": "By Camille Baker",
+      "type": "Article",
+      "title": "‘Wherever I Am, I Am Always Birding’",
+      "abstract": "The field-guide illustrator David Sibley says that drawing birds over a lifetime has shaped his entire way of seeing.",
+      "des_facet": [
+        "Birds",
+        "Birdwatching",
+        "your-feed-science",
+        "your-feed-animals",
+        "internal-paywall-exempt"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "“There’s a real, deep, personal satisfaction and reward for taking the time to really watch a bird and study it and figure out how to draw it,” David Sibley, the famed artist and birder, said. ",
+          "copyright": "Spencer Weiner/Los Angeles Times via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/science/birding-newslettter/birding-newslettter-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/science/birding-newslettter/birding-newslettter-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/06/science/birding-newslettter/birding-newslettter-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ea9e02cb-e88f-55c6-81cf-7993731fb24f",
+      "url": "https://www.nytimes.com/article/no-cook-recipes.html",
+      "id": 100000008961910,
+      "asset_id": 100000008961910,
+      "source": "New York Times",
+      "published_date": "2023-07-10",
+      "updated": "2023-07-13 00:23:51",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Cooking and Cookbooks;Recipes;Content Type: Service;Summer (Season)",
+      "column": null,
+      "byline": "By Krysten Chambrot",
+      "type": "Article",
+      "title": "It’s Too Hot to Cook. Make These Cool Summer Recipes Instead.",
+      "abstract": "Here are 24 no-cook recipes for when it’s too sweltering outside to sear, roast, sauté, boil or even think of turning on the stove.",
+      "des_facet": [
+        "Cooking and Cookbooks",
+        "Recipes",
+        "Content Type: Service",
+        "Summer (Season)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Chris Simpson for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/10NoCook-best-gazpacho-hwzg/10NoCook-best-gazpacho-hwzg-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/10NoCook-best-gazpacho-hwzg/10NoCook-best-gazpacho-hwzg-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/10NoCook-best-gazpacho-hwzg/10NoCook-best-gazpacho-hwzg-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fdddbe33-bf2e-5a41-a5dc-9fca6388c625",
+      "url": "https://www.nytimes.com/2023/07/07/business/gen-x-in-charge-companies-chief-executives.html",
+      "id": 100000008971921,
+      "asset_id": 100000008971921,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-11 11:57:24",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "Generation X;Workplace Environment;Age, Chronological;Labor and Jobs;internal-sub-only;United States",
+      "column": null,
+      "byline": "By Emma Goldberg",
+      "type": "Article",
+      "title": "Gen X Is in Charge. Don’t Make a Big Deal About It.",
+      "abstract": "The original “latchkey kids” are grown up, in the boss’s seat and ready to make the rules. If that’s OK?",
+      "des_facet": [
+        "Generation X",
+        "Workplace Environment",
+        "Age, Chronological",
+        "Labor and Jobs",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The 1999 film “Office Space,” starring Gary Cole, left, and Ron Livingston, roasts office culture and pits fed-up Gen X cubicle workers against their boomer boss.",
+          "copyright": "Van Redin/20th Century Fox",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00GenX-office-space-kcpm/00GenX-office-space-kcpm-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00GenX-office-space-kcpm/00GenX-office-space-kcpm-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00GenX-office-space-kcpm/00GenX-office-space-kcpm-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/55c3a706-25bb-56e9-a2f7-304b0cc2753b",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/well/live/sleep-better-age.html",
+      "id": 100000008975663,
+      "asset_id": 100000008975663,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-10 08:21:32",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Sleep;Age, Chronological;Insomnia;Content Type: Service;vis-design;internal-sub-only-except-search",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Interactive",
+      "title": "Sleep Better at Every Age",
+      "abstract": "Sleep needs shift throughout the lifespan. Experts offer tips to get more rest — no matter how old you are.",
+      "des_facet": [
+        "Sleep",
+        "Age, Chronological",
+        "Insomnia",
+        "Content Type: Service",
+        "vis-design",
+        "internal-sub-only-except-search"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Illustrations by Petra Eriksson",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-mediumThreeByTwo210-v4.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/22/well/well-sleep-age-topper/well-sleep-age-topper-mediumThreeByTwo440-v4.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/7fcc4ae1-f7a6-571d-90d1-c878d0843e0d",
+      "url": "https://www.nytimes.com/interactive/2023/07/06/travel/things-to-do-florida-panhandle.html",
+      "id": 100000008952497,
+      "asset_id": 100000008952497,
+      "source": "New York Times",
+      "published_date": "2023-07-06",
+      "updated": "2023-07-10 17:56:32",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Travel and Vacations;Restaurants;Beaches;Bars and Nightclubs;Parks and Other Recreation Areas;Coastal Areas;internal-open-access-from-nl;Florida;Florida Panhandle;Seaside (Fla);United States",
+      "column": null,
+      "byline": "By Shannon Sims",
+      "type": "Interactive",
+      "title": "36 Hours in the Florida Panhandle",
+      "abstract": "Pick your own paradise along State Road 30A, long a beloved vacation destination for Southerners.",
+      "des_facet": [
+        "Travel and Vacations",
+        "Restaurants",
+        "Beaches",
+        "Bars and Nightclubs",
+        "Parks and Other Recreation Areas",
+        "Coastal Areas",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Florida",
+        "Florida Panhandle",
+        "Seaside (Fla)",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/15/travel/06hours-florida-ztbq/06hours-florida-ztbq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/15/travel/06hours-florida-ztbq/06hours-florida-ztbq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/15/travel/06hours-florida-ztbq/06hours-florida-ztbq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/5a0a4510-6e96-5e27-81b6-1a5b0ba7f0c5",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/opinion/indiana-jones-movie-john-williams-music.html",
+      "id": 100000008984772,
+      "asset_id": 100000008984772,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-08 12:06:25",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Music;Movies;internal-sub-only;Williams, John (1932- )",
+      "column": null,
+      "byline": "By Frank Lehman",
+      "type": "Interactive",
+      "title": "How to Write Music for Rolling Boulders",
+      "abstract": "From “Indiana Jones” to “Star Wars,” you know John Williams’s movie themes. But some of his best music has barely been heard.",
+      "des_facet": [
+        "Music",
+        "Movies",
+        "internal-sub-only"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Williams, John (1932- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "Illustration by The New York Times; photograph from Lucasfilms, via Flixpix/Alamy; Berlin Philharmonic orchestra member performing John Williams song",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/07Lehman/07Lehman-thumbStandard-v3.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/07Lehman/07Lehman-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/07Lehman/07Lehman-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c22da15e-a5a9-52d1-b857-c8f52f500898",
+      "url": "https://www.nytimes.com/2023/07/08/realestate/sexual-harassment-assault-real-estate-agents.html",
+      "id": 100000008865932,
+      "asset_id": 100000008865932,
+      "source": "New York Times",
+      "published_date": "2023-07-08",
+      "updated": "2023-07-10 11:31:50",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Women and Girls;Real Estate Brokers;Sexual Harassment;Sex Crimes;Assaults;Real Estate and Housing (Residential);#MeToo Movement;National Assn of Realtors;United States",
+      "column": null,
+      "byline": "By Debra Kamin",
+      "type": "Article",
+      "title": "Alone in an Empty House, Female Real Estate Agents Face Danger",
+      "abstract": "Most sexual harassment comes from potential clients, and agents say they are vulnerable to abuse in an industry that offers few protections.",
+      "des_facet": [
+        "Women and Girls",
+        "Real Estate Brokers",
+        "Sexual Harassment",
+        "Sex Crimes",
+        "Assaults",
+        "Real Estate and Housing (Residential)",
+        "#MeToo Movement"
+      ],
+      "org_facet": [
+        "National Assn of Realtors"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Fearing the dangers of her job, Dawna Hetzler learned to use a gun. When she was alone at an open house and a buyer pulled a knife on her, she used it.",
+          "copyright": "James Stukenberg for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/30realtormetoo-vklt/30realtormetoo-vklt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/30realtormetoo-vklt/30realtormetoo-vklt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/30realtormetoo-vklt/30realtormetoo-vklt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27512f29-47eb-5512-8302-a749108d62e8",
+      "url": "https://www.nytimes.com/2023/07/07/realestate/modern-farmhouse-suburbs.html",
+      "id": 100000008900757,
+      "asset_id": 100000008900757,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-09 12:32:58",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Interior Design and Furnishings;Architecture;Millennial Generation;United States",
+      "column": null,
+      "byline": "By Ronda Kaysen",
+      "type": "Article",
+      "title": "The Modern Farmhouse Is Today’s McMansion. And It’s Here to Stay.",
+      "abstract": "In a divided country, a clean look and a neutral color palette is the aesthetic comforting communities around the country.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Interior Design and Furnishings",
+        "Architecture",
+        "Millennial Generation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jeffrey and Lauren Sachs added wood posts and beams, a tin roof, barn-style garage doors and a brick walkway to their modern farmhouse.",
+          "copyright": "Kate Glicksberg for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/07farmhouses-tcml/07farmhouses-tcml-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/07farmhouses-tcml/07farmhouses-tcml-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/07farmhouses-tcml/07farmhouses-tcml-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9b2d79e4-c99d-5309-9bd0-2e5574298e1e",
+      "url": "https://www.nytimes.com/2022/09/08/well/misophonia-chewing-noise-treatment.html",
+      "id": 100000008525303,
+      "asset_id": 100000008525303,
+      "source": "New York Times",
+      "published_date": "2022-09-08",
+      "updated": "2022-09-12 19:23:23",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Senses and Sensation;Vaccination and Immunization;Anxiety and Stress;Therapy and Rehabilitation",
+      "column": null,
+      "byline": "By Melinda Wenner Moyer",
+      "type": "Article",
+      "title": "When You Can’t Stand the Sound of Chewing (or Crunching, or Sniffling)",
+      "abstract": "Misophonia, a little-known syndrome, is characterized by strong negative emotional reactions to certain sounds or visual cues.",
+      "des_facet": [
+        "Senses and Sensation",
+        "Vaccination and Immunization",
+        "Anxiety and Stress",
+        "Therapy and Rehabilitation"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Guillem Casas&uacute;s",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/09/13/well/08Well-NL-Misophonia/08Well-NL-Misophonia-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/13/well/08Well-NL-Misophonia/08Well-NL-Misophonia-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/09/13/well/08Well-NL-Misophonia/08Well-NL-Misophonia-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ad29c868-f3a5-50df-a2f8-92bf6ce984b0",
+      "url": "https://www.nytimes.com/2023/07/03/well/mosquito-bites-humans-repellent.html",
+      "id": 100000008949021,
+      "asset_id": 100000008949021,
+      "source": "New York Times",
+      "published_date": "2023-07-03",
+      "updated": "2023-07-11 00:12:50",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Mosquitoes;Content Type: Service;Smells and Odors;Animal Behavior;Skin;internal-open-access-from-nl",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "Why Do Mosquitoes Like Me So Much?",
+      "abstract": "There are two main factors at play.",
+      "des_facet": [
+        "Mosquitoes",
+        "Content Type: Service",
+        "Smells and Odors",
+        "Animal Behavior",
+        "Skin",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tonje Thilesen for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/03ASK-WELL-MOSQUITOES-3-vgzt/03ASK-WELL-MOSQUITOES-3-vgzt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/03ASK-WELL-MOSQUITOES-3-vgzt/03ASK-WELL-MOSQUITOES-3-vgzt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/03ASK-WELL-MOSQUITOES-3-vgzt/03ASK-WELL-MOSQUITOES-3-vgzt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/358f63ad-caed-5afa-a582-428a083de8d9",
+      "url": "https://www.nytimes.com/2023/07/11/climate/chicago-underground-heat.html",
+      "id": 100000008925643,
+      "asset_id": 100000008925643,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 14:13:35",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Buildings (Structures);Global Warming;Subways;Parking Garages and Lots;Basements and Cellars;Transit Systems;Sensors;Heating;Northwestern University;Chicago (Ill)",
+      "column": null,
+      "byline": "By Raymond Zhong and Jamie Kelter Davis",
+      "type": "Article",
+      "title": "Heat Down Below Is Making the Ground Shift Under Chicago",
+      "abstract": "Basements and train tunnels constantly leak heat, causing the land to sink and straining building foundations. Scientists call it “underground climate change.”",
+      "des_facet": [
+        "Buildings (Structures)",
+        "Global Warming",
+        "Subways",
+        "Parking Garages and Lots",
+        "Basements and Cellars",
+        "Transit Systems",
+        "Sensors",
+        "Heating"
+      ],
+      "org_facet": [
+        "Northwestern University"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Chicago (Ill)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Alessandro F. Rotta Loria, an assistant professor at Northwestern University, walked through a boiler room of the Union League Club of Chicago to examine a temperature sensor.",
+          "copyright": "",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11cli-undergroundheat-01-wjhl/11cli-undergroundheat-01-wjhl-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d725f7d-ea16-5dad-a428-c15272c1036b",
+      "url": "https://www.nytimes.com/2023/07/08/opinion/carry-on-packing-airlines-lost-luggage.html",
+      "id": 100000008962893,
+      "asset_id": 100000008962893,
+      "source": "New York Times",
+      "published_date": "2023-07-08",
+      "updated": "2023-07-12 16:31:43",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Luggage and Packing;Travel and Vacations;Airlines and Airplanes;Lost and Found Property;Airports",
+      "column": null,
+      "byline": "By David Mack",
+      "type": "Article",
+      "title": "Got a Flight? Don’t Even Think About Checking a Bag.",
+      "abstract": "The ultralight packing trend says a lot about the state of travel these days.",
+      "des_facet": [
+        "Luggage and Packing",
+        "Travel and Vacations",
+        "Airlines and Airplanes",
+        "Lost and Found Property",
+        "Airports"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Lauren Humphrey",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/sunday/07Mack/07Mack-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/sunday/07Mack/07Mack-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/sunday/07Mack/07Mack-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/291abe2e-f431-5608-94cb-3fed23257aea",
+      "url": "https://www.nytimes.com/2023/07/06/opinion/new-york-mets-mlb-fans.html",
+      "id": 100000008984793,
+      "asset_id": 100000008984793,
+      "source": "New York Times",
+      "published_date": "2023-07-06",
+      "updated": "2023-07-10 17:20:43",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Baseball;Fans (Persons);New York Mets",
+      "column": null,
+      "byline": "By David Brooks",
+      "type": "Article",
+      "title": "Why I Still Love the New York Mets",
+      "abstract": "We don’t watch sports for happiness; we watch for the human drama.",
+      "des_facet": [
+        "Baseball",
+        "Fans (Persons)"
+      ],
+      "org_facet": [
+        "New York Mets"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bartolo Colón of the Mets hitting his first career home run at age 42, in 2016.",
+          "copyright": "Dennis Poroy/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/06brooks1/06brooks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/06brooks1/06brooks1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/opinion/06brooks1/06brooks1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://interactive/12e4e1b6-6798-5f35-975c-befe67931982",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/books/literature-translation.html",
+      "id": 100000008981872,
+      "asset_id": 100000008981872,
+      "source": "New York Times",
+      "published_date": "2023-07-07",
+      "updated": "2023-07-10 06:34:01",
+      "section": "Books",
+      "subsection": "",
+      "nytdsection": "books",
+      "adx_keywords": "Books and Literature;Translation and Interpreters;vis-design;Spanish Language;English Language;internal-open-access-from-nl;Melchor, Fernanda;Trabucco Zeran, Alia",
+      "column": null,
+      "byline": "By Sophie Hughes",
+      "type": "Interactive",
+      "title": "The Art of Translation",
+      "abstract": "See how a translator carries a book from one language to another, line by line.",
+      "des_facet": [
+        "Books and Literature",
+        "Translation and Interpreters",
+        "vis-design",
+        "Spanish Language",
+        "English Language",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Melchor, Fernanda",
+        "Trabucco Zeran, Alia"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "",
+          "caption": "",
+          "copyright": "",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/autossell/07-joy-of-translation-promo-still/07-joy-of-translation-promo-still-thumbStandard.png",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/autossell/07-joy-of-translation-promo-still/07-joy-of-translation-promo-still-mediumThreeByTwo210.png",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/07/autossell/07-joy-of-translation-promo-still/07-joy-of-translation-promo-still-mediumThreeByTwo440.png",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a7c768e9-e3f7-51f0-b34e-403b25b5912f",
+      "url": "https://www.nytimes.com/2023/07/05/health/flu-covid-rsv-vaccines.html",
+      "id": 100000008967890,
+      "asset_id": 100000008967890,
+      "source": "New York Times",
+      "published_date": "2023-07-05",
+      "updated": "2023-07-07 09:05:10",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Vaccination and Immunization;Coronavirus (2019-nCoV);Influenza;Respiratory Syncytial Virus (RSV);Elderly;Immune System;Content Type: Service;your-feed-science;Moderna Inc;Novavax Inc;Pfizer Inc",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "Three Vaccines for Fall: What You Need to Know",
+      "abstract": "Here’s who should get the flu, Covid and R.S.V. vaccines, and when.",
+      "des_facet": [
+        "Vaccination and Immunization",
+        "Coronavirus (2019-nCoV)",
+        "Influenza",
+        "Respiratory Syncytial Virus (RSV)",
+        "Elderly",
+        "Immune System",
+        "Content Type: Service",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Moderna Inc",
+        "Novavax Inc",
+        "Pfizer Inc"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "This fall, in addition to the flu and Covid vaccines, older Americans will be able to get a shot for respiratory syncytial virus.",
+          "copyright": "Frederic J. Brown/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/30/science/00vaccines-advice/00vaccines-advice-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/30/science/00vaccines-advice/00vaccines-advice-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/30/science/00vaccines-advice/00vaccines-advice-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
