@@ -1,0 +1,34 @@
+/*
+  Localizable.strings
+*/
+
+/* Common string */
+"ok" = "H-Ok";
+"cancel" = "H-Cancel";
+"done" = "H-Done";
+"invalid" = "H-Invalid";
+"error" = "H-Error";
+
+/* Signup Screen */
+
+"create-new-account" = "H-Create new account";
+"enter-your-name" = "H-Enter your name";
+"enter-your-email" = "H-Enter your email";
+"enter-your-password" = "H-Enter your password";
+"signup" = "H-Signup";
+
+// Alert messages
+
+"invalid-name" = "H-Name should be of alteast 3 characters.";
+"invalid-email" = "H-Please enter valid email address.";
+"invalid-password" = "H-Password should contain 8 characters with at least one number, one uppercase, and one special character.";
+
+/* Feed Screen */
+"feeds" = "H-Feeds";
+"no-feeds" = "H-No Feeds";
+"error-fetching-emailed" = "H-Unable to fetch most emailed feeds";
+"error-fetching-shared" = "H-Unable to fetch most shared feeds";
+"error-fetching-viewed" = "H-Unable to fetch most viewed feeds";
+"section-emailed" = "H-Most Emailed";
+"section-shared" = "H-Most Shared";
+"section-viewed" = "H-Most Viewed";

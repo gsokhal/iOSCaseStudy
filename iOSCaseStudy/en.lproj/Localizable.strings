@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  iOSCaseStudy
+
+  Created by Gaurav Sokhal on 13/07/23.
+  
+*/
+
+/* Common string */
+
+"ok" = "Ok";
+"cancel" = "Cancel";
+"done" = "Done";
+"invalid" = "Invalid";
+"error" = "Error";
+
+/* Signup Screen */
+
+"create-new-account" = "Create new account";
+"enter-your-name" = "Enter your name";
+"enter-your-email" = "Enter your email";
+"enter-your-password" = "Enter your password";
+"signup" = "Signup";
+
+// Alert messages
+
+"invalid-name" = "Name should be of alteast 3 characters.";
+"invalid-email" = "Please enter valid email address.";
+"invalid-password" = "Password should contain 8 characters with at least one number, one uppercase, and one special character.";
+
+/* Feed Screen */
+"feeds" = "Feeds";
+"no-feeds" = "No Feeds";
+"error-fetching-emailed" = "Unable to fetch most emailed feeds";
+"error-fetching-shared" = "Unable to fetch most shared feeds";
+"error-fetching-viewed" = "Unable to fetch most viewed feeds";
+"section-emailed" = "Most Emailed";
+"section-shared" = "Most Shared";
+"section-viewed" = "Most Viewed";

@@ -1,0 +1,1255 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/ba16dce4-37e2-5a23-92e8-35fede3c0d7d",
+      "url": "https://www.nytimes.com/2023/07/12/world/europe/sergei-surovikin-russian-general-missing.html",
+      "id": 100000008992731,
+      "asset_id": 100000008992731,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 10:33:38",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Putin, Vladimir V;Surovikin, Sergei;Prigozhin, Yevgeny V;Wagner Group;Russia;Ukraine",
+      "column": null,
+      "byline": "By Paul Sonne",
+      "type": "Article",
+      "title": "Test Title",
+      "abstract": "A Russian lawmaker says that Gen. Sergei Surovikin, who has not been seen in public since a short-lived mutiny, has been “taking a rest.”",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)"
+      ],
+      "org_facet": [
+        "Wagner Group"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Surovikin, Sergei",
+        "Prigozhin, Yevgeny V"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia and Gen. Sergei Surovikin in 2017, in a photo from Russian state media.",
+          "copyright": "Sputnik, via Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/12ukraine-blog-russia-generals22-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/28dc-russia-military-khjb-mediumThreeByTwo210-v3.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/06/28/multimedia/12ukraine-blog-russia-generals22/28dc-russia-military-khjb-mediumThreeByTwo440-v3.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ac7ffb5b-5503-5e16-ba55-9ded350f2d15",
+      "url": "https://www.nytimes.com/2023/07/12/magazine/celebrity-marriage-ethics.html",
+      "id": 100000008991132,
+      "asset_id": 100000008991132,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 11:30:03",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Ethics (Personal);internal-sub-only-nl;Dating and Relationships;Celebrities;Pop and Rock Music;Music;Marriages",
+      "column": null,
+      "byline": "By Kwame Anthony Appiah",
+      "type": "Article",
+      "title": "I Dated a Celebrity. Do I Have to Tell My Wife?",
+      "abstract": "The magazine’s Ethicist columnist on revealing a past romance to a current partner.",
+      "des_facet": [
+        "Ethics (Personal)",
+        "internal-sub-only-nl",
+        "Dating and Relationships",
+        "Celebrities",
+        "Pop and Rock Music",
+        "Music",
+        "Marriages"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Tomi Um",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/magazine/16mag-ethicist-online/16mag-ethicist-online-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/magazine/16mag-ethicist-online/16mag-ethicist-online-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/magazine/16mag-ethicist-online/16mag-ethicist-online-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/87637c31-4537-5f6b-a17c-dad06969a2d5",
+      "url": "https://www.nytimes.com/2023/07/12/world/europe/huw-edwards-bbc-police.html",
+      "id": 100000008988966,
+      "asset_id": 100000008988966,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 00:47:50",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "News and News Media;Child Abuse and Neglect;Police;British Broadcasting Corp;Scotland Yard (Metropolitan Police Service);Sun, The (British Newspaper);Great Britain",
+      "column": null,
+      "byline": "By Mark Landler",
+      "type": "Article",
+      "title": "Top News Anchor Is Identified as Person Suspended by the BBC",
+      "abstract": "The wife of Huw Edwards, one of the BBC’s most prominent figures, said in a statement that her husband suffered from mental health issues. The police said there was no evidence of a crime.",
+      "des_facet": [
+        "News and News Media",
+        "Child Abuse and Neglect",
+        "Police"
+      ],
+      "org_facet": [
+        "British Broadcasting Corp",
+        "Scotland Yard (Metropolitan Police Service)",
+        "Sun, The (British Newspaper)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Great Britain"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Huw Edwards attending the 2023 BAFTA TV Awards at the Royal Festival Hall in London in May.",
+          "copyright": "Tolga Akmen/EPA, via Shutterstock",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12bbc-01-jmlq/12bbc-01-jmlq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12bbc-01-jmlq/12bbc-01-jmlq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12bbc-01-jmlq/12bbc-01-jmlq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b91ad2ea-da24-5d5b-8002-1a9e62bb4ee0",
+      "url": "https://www.nytimes.com/2023/07/10/style/magnolia-pearl-clothing.html",
+      "id": 100000008982880,
+      "asset_id": 100000008982880,
+      "source": "New York Times",
+      "published_date": "2023-07-10",
+      "updated": "2023-07-13 00:00:12",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Social Media;Fashion and Apparel;Celebrities;Shopping and Retail;Depp, Johnny;Goldberg, Whoopi;TikTok (ByteDance);Texas",
+      "column": null,
+      "byline": "By Kayleen Schaefer",
+      "type": "Article",
+      "title": "An Expensive, Rustic Brand Faces Backlash for Its ‘Poverty’ Aesthetic",
+      "abstract": "Celebrities appreciate the antique look of Magnolia Pearl, a brand that takes inspiration from Victoriana, carnivals and “hobos,” and has recently drawn ire on social media.",
+      "des_facet": [
+        "Social Media",
+        "Fashion and Apparel",
+        "Celebrities",
+        "Shopping and Retail"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [
+        "Depp, Johnny",
+        "Goldberg, Whoopi"
+      ],
+      "geo_facet": [
+        "Texas"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Robin Brown, the lead designer of Magnolia Pearl, in her store in Fredericksburg, Texas.",
+          "copyright": "Abigail Enright for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/MAGNOLIA-PEARL-01-wtvh/MAGNOLIA-PEARL-01-wtvh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/MAGNOLIA-PEARL-01-wtvh/MAGNOLIA-PEARL-01-wtvh-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/multimedia/MAGNOLIA-PEARL-01-wtvh/MAGNOLIA-PEARL-01-wtvh-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/dd2d81ac-f14a-5947-b508-79e49cb9a0bd",
+      "url": "https://www.nytimes.com/2023/07/11/us/john-victor-russell-shooting-son-charged.html",
+      "id": 100000008991023,
+      "asset_id": 100000008991023,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-11 17:15:32",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Horses;Murders, Attempted Murders and Homicides;Horsemanship and Equestrian Events;North Carolina",
+      "column": null,
+      "byline": "By Michael Levenson",
+      "type": "Article",
+      "title": "‘Horseman of the Year’ Killed Horse While Shooting at Son, Authorities Say",
+      "abstract": "John Victor Russell, 75, shot at his son after an argument on the family horse farm, the sheriff’s office in Polk County, N.C., said. The son was unharmed, but the horse he was riding was struck and had to be euthanized.",
+      "des_facet": [
+        "Horses",
+        "Murders, Attempted Murders and Homicides",
+        "Horsemanship and Equestrian Events"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "North Carolina"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "John V. Russell, who is accused of shooting at his son and killing a horse, plans to plead not guilty, one of his lawyers said. ",
+          "copyright": "Polk County Sheriff's Office",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/us/11xp-horseman2/11xp-horseman2-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/us/11xp-horseman2/11xp-horseman2-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/us/11xp-horseman2/11xp-horseman2-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/18f3a816-2c78-51ae-aac0-70bbd719f7b1",
+      "url": "https://www.nytimes.com/2023/07/12/style/daddys-little-meatball.html",
+      "id": 100000008979821,
+      "asset_id": 100000008979821,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 09:04:38",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "T-Shirts (Apparel);Memorabilia and Souvenirs;Shopping and Retail;internal-open-access-from-nl;Canal Street (Manhattan, NY);Chinatown (Manhattan, NY);Little Italy (Manhattan, NY);New York City",
+      "column": null,
+      "byline": "By Anna Kodé",
+      "type": "Article",
+      "title": "Who Is Daddy’s Little Meatball?",
+      "abstract": "The slogan has taken over New York City’s souvenir shops, and the T-shirts are worn by tourists and downtown Manhattanites alike.",
+      "des_facet": [
+        "T-Shirts (Apparel)",
+        "Memorabilia and Souvenirs",
+        "Shopping and Retail",
+        "internal-open-access-from-nl"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Canal Street (Manhattan, NY)",
+        "Chinatown (Manhattan, NY)",
+        "Little Italy (Manhattan, NY)",
+        "New York City"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The shirt, which comes in Daddy, Mommy and Nonna’s varieties, is often worn in a campy way, like an inside joke among New Yorkers.",
+          "copyright": "Lanna Apisukh for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/fashion/12DADDYS-MEATBALLS-01-pftz/12DADDYS-MEATBALLS-01-pftz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/fashion/12DADDYS-MEATBALLS-01-pftz/12DADDYS-MEATBALLS-01-pftz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/fashion/12DADDYS-MEATBALLS-01-pftz/12DADDYS-MEATBALLS-01-pftz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bf24f6a5-977b-5de0-89bb-4be179c79a95",
+      "url": "https://www.nytimes.com/2023/07/12/nyregion/nyc-eviction-tina-dupuy-sheila-sullivan.html",
+      "id": 100000008973406,
+      "asset_id": 100000008973406,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 16:56:30",
+      "section": "New York",
+      "subsection": "",
+      "nytdsection": "new york",
+      "adx_keywords": "Actors and Actresses;internal-sub-only;Evictions;Renting and Leasing (Real Estate);Upper West Side (Manhattan, NY)",
+      "column": null,
+      "byline": "By Michael Wilson",
+      "type": "Article",
+      "title": "The Glamorous Stranger Next Door Knew Everyone. And She Needed Help.",
+      "abstract": "The mysterious neighbor claimed to have witnessed a nuclear detonation, marched on Selma and acted on Broadway. Would an overlooked form letter be her downfall?",
+      "des_facet": [
+        "Actors and Actresses",
+        "internal-sub-only",
+        "Evictions",
+        "Renting and Leasing (Real Estate)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Upper West Side (Manhattan, NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tina Dupuy and Sheila Sullivan in Ms. Sullivan’s Upper West Side apartment.",
+          "copyright": "Brittainy Newman for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/16/nyregion/16ny-friendship-new1/00ny-friendship-new1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/45952383-30d1-56cb-911c-ff9b6b275431",
+      "url": "https://www.nytimes.com/2023/07/12/sports/mikala-jones-surfer-dead-indonesia.html",
+      "id": 100000008992714,
+      "asset_id": 100000008992714,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 15:46:29",
+      "section": "Sports",
+      "subsection": "",
+      "nytdsection": "sports",
+      "adx_keywords": "Photography;Surfing;GoPro;Surfline.com;Bali (Indonesia);Hawaii",
+      "column": null,
+      "byline": "By Christine Hauser",
+      "type": "Article",
+      "title": "Mikala Jones, Surfer Known for Photography Inside Waves, Is Dead",
+      "abstract": "Mr. Jones was surfing on Sunday off the coast of Sumatra when the fin from his board cut an artery, The Associated Press reported.",
+      "des_facet": [
+        "Photography",
+        "Surfing"
+      ],
+      "org_facet": [
+        "GoPro",
+        "Surfline.com"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Bali (Indonesia)",
+        "Hawaii"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mikala Jones at Surf Ranch in Lemoore, Calif., holding a surfboard that his brother Daniel Jones made using material from the agave plant.",
+          "copyright": "Dr. John Jones, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12xp-surfer-jqlv/12xp-surfer-jqlv-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12xp-surfer-jqlv/12xp-surfer-jqlv-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12xp-surfer-jqlv/12xp-surfer-jqlv-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/725ade9d-33c4-5256-a58e-051c8e769d53",
+      "url": "https://www.nytimes.com/2023/07/11/world/europe/miss-netherlands-rikkie-valerie-kolle.html",
+      "id": 100000008990553,
+      "asset_id": 100000008990553,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-13 00:48:45",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Transgender;Beauty Contests;Women and Girls;Social Media;Cyberharassment;Discrimination;Kolle, Rikkie Valerie;Miss Universe Organization;Netherlands",
+      "column": null,
+      "byline": "By Claire Moses",
+      "type": "Article",
+      "title": "A Trans Woman Is Crowned Miss Netherlands for the First Time",
+      "abstract": "Rikkie Valerie Kollé, 22, will represent the Netherlands at the 72nd annual Miss Universe pageant in El Salvador later this year.",
+      "des_facet": [
+        "Transgender",
+        "Beauty Contests",
+        "Women and Girls",
+        "Social Media",
+        "Cyberharassment",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Miss Universe Organization"
+      ],
+      "per_facet": [
+        "Kolle, Rikkie Valerie"
+      ],
+      "geo_facet": [
+        "Netherlands"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Rikkie Valerie Kollé, center, won the Miss Netherlands beauty pageant this weekend.",
+          "copyright": "Evert Elzinga/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11xp-missnetherlands2-kflq/11xp-missnetherlands2-kflq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11xp-missnetherlands2-kflq/11xp-missnetherlands2-kflq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11xp-missnetherlands2-kflq/11xp-missnetherlands2-kflq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/bd434746-42cc-5521-8fbb-5b44f8d782ed",
+      "url": "https://www.nytimes.com/2023/07/11/us/leslie-van-houten-charles-manson-parole.html",
+      "id": 100000008988547,
+      "asset_id": 100000008988547,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-11 23:02:59",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Murders, Attempted Murders and Homicides;Probation and Parole;Governors (US);Van Houten, Leslie;Manson, Charles;Newsom, Gavin;California",
+      "column": null,
+      "byline": "By Derrick Bryson Taylor",
+      "type": "Article",
+      "title": "Former Manson Family Member Leslie Van Houten Is Released on Parole",
+      "abstract": "At the direction of Charles Manson, Ms. Van Houten participated in the murder of a California couple in 1969. She was initially sentenced to death.",
+      "des_facet": [
+        "Murders, Attempted Murders and Homicides",
+        "Probation and Parole",
+        "Governors (US)"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Van Houten, Leslie",
+        "Manson, Charles",
+        "Newsom, Gavin"
+      ],
+      "geo_facet": [
+        "California"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Leslie Van Houten attends a parole hearing at the California Institution for Women in 2017.",
+          "copyright": "Pool photo by Stan Lim",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00xp-houten-hfo1-vpzk/00xp-houten-hfo1-vpzk-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00xp-houten-hfo1-vpzk/00xp-houten-hfo1-vpzk-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/09/multimedia/00xp-houten-hfo1-vpzk/00xp-houten-hfo1-vpzk-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8faf5607-df32-57d0-86b0-41e7bee09e6f",
+      "url": "https://www.nytimes.com/2023/07/12/us/politics/defense-bill-republicans-ukraine-war.html",
+      "id": 100000008993003,
+      "asset_id": 100000008993003,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 09:49:11",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Right-Wing Extremism and Alt-Right;Federal Budget (US);Law and Legislation;Foreign Aid;Russian Invasion of Ukraine (2022);United States Defense and Military Forces;United States International Relations;United States Politics and Government;Conservatism (US Politics);McCarthy, Kevin (1965- );Republican Party;House of Representatives;Ukraine",
+      "column": null,
+      "byline": "By Karoun Demirjian",
+      "type": "Article",
+      "title": "G.O.P.’s Far Right Seeks to Use Defense Bill to Defund Ukraine War Effort",
+      "abstract": "The group’s proposals have no chance of passage, but they have further mired the military spending bill in a partisan fight and highlighted Republican divisions over the war.",
+      "des_facet": [
+        "Right-Wing Extremism and Alt-Right",
+        "Federal Budget (US)",
+        "Law and Legislation",
+        "Foreign Aid",
+        "Russian Invasion of Ukraine (2022)",
+        "United States Defense and Military Forces",
+        "United States International Relations",
+        "United States Politics and Government",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "Republican Party",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "McCarthy, Kevin (1965- )"
+      ],
+      "geo_facet": [
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Soldiers staging a U.S.-manufactured armored vehicle during a counteroffensive operation in the Donetsk region last month.",
+          "copyright": "David Guttenfelder for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-defensebill-01-qlkt/12dc-defensebill-01-qlkt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-defensebill-01-qlkt/12dc-defensebill-01-qlkt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-defensebill-01-qlkt/12dc-defensebill-01-qlkt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d5af582a-8aca-5d3d-8617-a5a03f45d831",
+      "url": "https://www.nytimes.com/2023/07/13/health/otc-birth-control-pill.html",
+      "id": 100000008991281,
+      "asset_id": 100000008991281,
+      "source": "New York Times",
+      "published_date": "2023-07-13",
+      "updated": "2023-07-13 10:32:37",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Birth Control and Family Planning;Women and Girls;Drugs (Pharmaceuticals);United States Politics and Government;Medicine and Health;Abortion;Teenagers and Adolescence;Decisions and Verdicts;your-feed-healthcare",
+      "column": null,
+      "byline": "By Pam Belluck",
+      "type": "Article",
+      "title": "F.D.A. Approves First U.S. Over-the-Counter Birth Control Pill",
+      "abstract": "The move could significantly expand access to contraception. The pill is expected to be available in early 2024.",
+      "des_facet": [
+        "Birth Control and Family Planning",
+        "Women and Girls",
+        "Drugs (Pharmaceuticals)",
+        "United States Politics and Government",
+        "Medicine and Health",
+        "Abortion",
+        "Teenagers and Adolescence",
+        "Decisions and Verdicts",
+        "your-feed-healthcare"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Perrigo, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/05/09/multimedia/13BirthControlPill/09OTC-pill-pkfz-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/09/multimedia/13BirthControlPill/09OTC-pill-pkfz-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/05/09/multimedia/13BirthControlPill/09OTC-pill-pkfz-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/27788e0b-a15d-5792-a959-8f01dcb72fac",
+      "url": "https://www.nytimes.com/2023/07/12/opinion/nato-putin-ukraine-baltics.html",
+      "id": 100000008992163,
+      "asset_id": 100000008992163,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 10:44:57",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);International Relations;United States International Relations;Defense and Military Forces;Foreign Aid;Arms Trade;Putin, Vladimir V;Kallas, Kaja (1977- );Levits, Egils;Russia;Estonia;Latvia;Lithuania;Ukraine",
+      "column": null,
+      "byline": "By Nicholas Kristof",
+      "type": "Article",
+      "title": "Here’s What the Experts Say About Managing Putin",
+      "abstract": "The Baltic countries got Russia right when much of the West got it wrong.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "International Relations",
+        "United States International Relations",
+        "Defense and Military Forces",
+        "Foreign Aid",
+        "Arms Trade"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Kallas, Kaja (1977- )",
+        "Levits, Egils"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Estonia",
+        "Latvia",
+        "Lithuania",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A destroyed Russian armored vehicle on the front line.",
+          "copyright": "Tyler Hicks/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/13/multimedia/12Kristof-1-ckjt/12Kristof-1-ckjt-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c3a39f47-5f41-58a4-bd82-e382efbfb3b6",
+      "url": "https://www.nytimes.com/2023/07/12/world/europe/milan-kundera-dead.html",
+      "id": 100000006724285,
+      "asset_id": 100000006724285,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 02:24:34",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Deaths (Obituaries);Books and Literature;Writing and Writers;Kundera, Milan;Communist Party of Czechoslovakia;Czechoslovakia;Czech Republic",
+      "column": null,
+      "byline": "By Daniel Lewis",
+      "type": "Article",
+      "title": "Milan Kundera, Literary Star Who Skewered Communist Rule, Dies at 94",
+      "abstract": "The author of “The Unbearable Lightness of Being,” he was known for sexually charged novels that captured the suffocating absurdity of life in his native Czechoslovakia.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Books and Literature",
+        "Writing and Writers"
+      ],
+      "org_facet": [
+        "Communist Party of Czechoslovakia"
+      ],
+      "per_facet": [
+        "Kundera, Milan"
+      ],
+      "geo_facet": [
+        "Czechoslovakia",
+        "Czech Republic"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Milan Kundera in 1984, when his novel “The Unbearable Lightness of Being” became an instant success and later the basis of a movie.",
+          "copyright": "Francois Lochon/Gamma-Rapho, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/world/12kundera-copy/12kundera-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/684f860b-baa3-524b-af70-3626f6732862",
+      "url": "https://www.nytimes.com/2023/07/12/style/friends-trip-vacation-exclusion.html",
+      "id": 100000008970922,
+      "asset_id": 100000008970922,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 10:08:27",
+      "section": "Style",
+      "subsection": "",
+      "nytdsection": "style",
+      "adx_keywords": "Customs, Etiquette and Manners;Content Type: Service",
+      "column": null,
+      "byline": "By Philip Galanes",
+      "type": "Article",
+      "title": "My Friends Excluded Me From Their Awesome Trip. What Should I Do?",
+      "abstract": "A reader ponders her next move after being left out of vacation plans with four other women.",
+      "des_facet": [
+        "Customs, Etiquette and Manners",
+        "Content Type: Service"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Miguel Porlan",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2021/06/20/fashion/socialqs-2021-artwork/socialqs-2021-artwork-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a629d4a-ba01-5c7b-b5c6-87721c5cf079",
+      "url": "https://www.nytimes.com/2023/07/12/business/ray-epps-fox-tucker-carlson-lawsuit.html",
+      "id": 100000008989332,
+      "asset_id": 100000008989332,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-12 23:47:03",
+      "section": "Business",
+      "subsection": "",
+      "nytdsection": "business",
+      "adx_keywords": "News and News Media;Libel and Slander;Suits and Litigation (Civil);Storming of the US Capitol (Jan, 2021);Conspiracy Theories;Carlson, Tucker;Epps, Ray (1961- );Fox News Channel",
+      "column": null,
+      "byline": "By Alan Feuer and Jeremy W. Peters",
+      "type": "Article",
+      "title": "Arizona Man Cited in Conspiracy Theories Sues Fox News for Defamation",
+      "abstract": "Ray Epps, a two-time Trump voter, says Tucker Carlson repeatedly and falsely named him as a covert government agent who incited the Jan. 6 attack.",
+      "des_facet": [
+        "News and News Media",
+        "Libel and Slander",
+        "Suits and Litigation (Civil)",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Fox News Channel"
+      ],
+      "per_facet": [
+        "Carlson, Tucker",
+        "Epps, Ray (1961- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "After the repeated unsubstantiated on-air accusations by Tucker Carlson, Ray Epps and his wife, Robyn, received numerous death threats and were forced to sell their home and business and move out of Arizona.",
+          "copyright": "Alan Feuer/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/FOX-EPPS-lbmh/lbmh-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/FOX-EPPS-lbmh/lbmh-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/FOX-EPPS-lbmh/lbmh-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/446d7385-d23a-592a-9879-0e322f6d1a4f",
+      "url": "https://www.nytimes.com/2023/07/12/us/politics/christopher-wray-fbi-house-judiciary-committee.html",
+      "id": 100000008990934,
+      "asset_id": 100000008990934,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 11:08:28",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Federal Criminal Case Against Trump (Documents Case);Classified Information and State Secrets;United States Politics and Government;Wray, Christopher A;Trump, Donald J;Jordan, Jim (1964- );Federal Bureau of Investigation;House Select Subcommittee on the Weaponization of the Federal Government;Mar-a-Lago (Palm Beach, Fla);Republican Party",
+      "column": null,
+      "byline": "By Adam Goldman and Glenn Thrush",
+      "type": "Article",
+      "title": "House Republicans Criticize F.B.I. in Contentious Hearing",
+      "abstract": "Stoked by former President Donald J. Trump, congressional Republicans have been trying to undermine the bureau’s legitimacy with the public.",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (Documents Case)",
+        "Classified Information and State Secrets",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation",
+        "House Select Subcommittee on the Weaponization of the Federal Government",
+        "Mar-a-Lago (Palm Beach, Fla)",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Wray, Christopher A",
+        "Trump, Donald J",
+        "Jordan, Jim (1964- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Christopher A. Wray, the F.B.I. director, rejected accusations that he had sought to shield President Biden or his son, or that he had targeted former President Donald J. Trump.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-fbi-sub1-wgcq/12dc-fbi-sub1-wgcq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-fbi-sub1-wgcq/12dc-fbi-sub1-wgcq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/12/multimedia/12dc-fbi-sub1-wgcq/12dc-fbi-sub1-wgcq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eedc4be9-8df1-5663-becb-3c2dac4062e3",
+      "url": "https://www.nytimes.com/2023/07/11/us/politics/defense-bill-republicans.html",
+      "id": 100000008990874,
+      "asset_id": 100000008990874,
+      "source": "New York Times",
+      "published_date": "2023-07-11",
+      "updated": "2023-07-12 05:46:13",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Law and Legislation;United States Defense and Military Forces;McCarthy, Kevin (1965- );Defense Department;House of Representatives",
+      "column": null,
+      "byline": "By Karoun Demirjian",
+      "type": "Article",
+      "title": "Hard Right Presses Culture War Fights on Defense Bill, Imperiling Passage",
+      "abstract": "Right-wing Republicans want to use the annual military budget and policy legislation, traditionally a bipartisan affair, as a tool to pick fights on abortion and other social issues.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Law and Legislation",
+        "United States Defense and Military Forces"
+      ],
+      "org_facet": [
+        "Defense Department",
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "McCarthy, Kevin (1965- )"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The internal Republican division on the annual defense bill will be a test for Speaker Kevin McCarthy.",
+          "copyright": "Kenny Holston/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/11/multimedia/11dc-defensebill-hjpw/11dc-defensebill-hjpw-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e6e0fea5-2e15-5936-8376-4d578537586f",
+      "url": "https://www.nytimes.com/2023/07/12/opinion/gun-violence-mass-shooting.html",
+      "id": 100000008993531,
+      "asset_id": 100000008993531,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 10:15:32",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Gun Control;Domestic Violence;Deaths (Fatalities);United States Politics and Government;Supreme Court (US);New York State;United States",
+      "column": null,
+      "byline": "By Gail Collins",
+      "type": "Article",
+      "title": "We Can’t Just Shoot Our Way Out of This",
+      "abstract": "The “uphill battle” for guns isn’t over.",
+      "des_facet": [
+        "Gun Control",
+        "Domestic Violence",
+        "Deaths (Fatalities)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Supreme Court (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "New York State",
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/14/multimedia/12collins-tjwb/12collins-tjwb-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/14/multimedia/12collins-tjwb/12collins-tjwb-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/14/multimedia/12collins-tjwb/12collins-tjwb-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/13d9c428-ddac-59cf-a648-610a0dcf4e04",
+      "url": "https://www.nytimes.com/2023/07/12/climate/white-paint-climate-cooling.html",
+      "id": 100000008983119,
+      "asset_id": 100000008983119,
+      "source": "New York Times",
+      "published_date": "2023-07-12",
+      "updated": "2023-07-13 09:02:52",
+      "section": "Climate",
+      "subsection": "",
+      "nytdsection": "climate",
+      "adx_keywords": "Heat and Heat Waves;Global Warming;Sun;Engineering and Engineers;Paint;Color;Ruan, Xiulin;Purdue University",
+      "column": null,
+      "byline": "By Cara Buckley",
+      "type": "Article",
+      "title": "To Help Cool a Hot Planet, the Whitest of White Coats",
+      "abstract": "Scientists at Purdue have created a white paint that, when applied, can reduce the surface temperature on a roof and cool the building beneath it.",
+      "des_facet": [
+        "Heat and Heat Waves",
+        "Global Warming",
+        "Sun",
+        "Engineering and Engineers",
+        "Paint",
+        "Color"
+      ],
+      "org_facet": [
+        "Purdue University"
+      ],
+      "per_facet": [
+        "Ruan, Xiulin"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xiulin Ruan, a professor of mechanical engineering at Purdue University, has created the whitest paint on record with his students.",
+          "copyright": "John Underwood/Purdue University",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2023/07/05/multimedia/00CLI-WHITEST-PAINT-01-gzlq/00CLI-WHITEST-PAINT-01-gzlq-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+/* Class = "UITextField"; placeholder = "Enter your password"; ObjectID = "EED-yS-8a3"; */
+"EED-yS-8a3.placeholder" = "Enter your password";
+
+/* Class = "UITextField"; placeholder = "Enter you name"; ObjectID = "OqI-EJ-D58"; */
+"OqI-EJ-D58.placeholder" = "Enter you name";
+
+/* Class = "UILabel"; text = "Create your Account"; ObjectID = "Qe1-tb-PhA"; */
+"Qe1-tb-PhA.text" = "Create your Account";
+
+/* Class = "UITextField"; placeholder = "Enter your email"; ObjectID = "TDe-ye-67m"; */
+"TDe-ye-67m.placeholder" = "Enter your email";
+
+/* Class = "UIButton"; configuration.title = "Signup"; ObjectID = "uaT-pH-dj0"; */
+"uaT-pH-dj0.configuration.title" = "Signup";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "uaT-pH-dj0"; */
+"uaT-pH-dj0.normalTitle" = "Button";
